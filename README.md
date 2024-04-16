@@ -1,4 +1,4 @@
-# Portfolio
+This portfolio highlights some of my favorite projects I've worked on in the last few years. I'm a full stack developer with an interest in AI/ML, product creation and football. I spend much of my freetime building projects that combine those interests, some of which appear here. Thanks for stopping by! 
 
 ## Yac Football | [Yac Football](https://yac.football)
 * SvelteKit, AWS Serverless backend, nodeJS/redis cache, Supabase
