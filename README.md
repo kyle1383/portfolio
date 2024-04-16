@@ -12,7 +12,7 @@
 * Creating an LLM for internal document generation to improve speed of client onboarding 
 * Created a home site and landing page to market the upcoming product
 
-## Yachtero |[Yachtero](https://yachtero.com)
+## Yachtero | [Yachtero](https://yachtero.com)
 * Laravel, Planet scale
 * Worked with client to update outdated infrastructure 
 * Consulted on coding best practices, improving efficiency, and product direction
@@ -39,7 +39,7 @@
 * Built iterations using React, MERN stack and SvelteKit 
 * Created real time draft using Elixir and web sockets
 
-NodeLLM 
-NPM package for composing LLM calls with each other and embedding them in traditional functions 
-Created a workflow for developing a package while using it in multiple active projects 
-Focused on clean, reusable, functional code to enhance composability
+## NodeLLM 
+* NPM package for composing LLM calls with each other and embedding them in traditional functions 
+* Created a workflow for developing a package while using it in multiple active projects 
+* Focused on clean, reusable, functional code to enhance composability
